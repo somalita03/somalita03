@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is somalita 
+from AI&DS
 <!--
 **somalita03/somalita03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
